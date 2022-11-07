@@ -10,16 +10,15 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
+            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.https://cdn.inst-fs-iad-prod.inscloudgate.net/54241a28-17b2-470c-96ea-eaec86f4f03a?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii81NDI0MWEyOC0xN2IyLTQ3MGMtOTZlYS1lYWVjODZmNGYwM2EiLCJ0ZW5hbnQiOiJjYW52YXMiLCJ1c2VyX2lkIjpudWxsLCJpYXQiOjE2Njc3NjA2OTEsImV4cCI6MTY2Nzg0NzA5MX0.ucL41D-hCg8ueokLf5OWNPrnJNk5AgXiMxaU4RKQAIqB08GV1vuY3AudG9Zaz7YkpiVMDpiBTixIPvI5InjVDw&content_type=image%2Fpng'
+            alt='alex nguyen'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            I'm currently commuting at CU Boulder as a freshman and I
+            enjoy playing video games such as Valorant and Overwatch. I'm
+            deeply interested in Virtual Reality and tend to spend a lot on Reddit
+            scrolling braindead while listening to synthwave music.
           </p>
 
           <a className='button' href='/'>
